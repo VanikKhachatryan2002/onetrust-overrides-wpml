@@ -2,7 +2,7 @@
 /**
  * Plugin Name: OneTrust Text Overrides (WPML)
  * Description: Overrides OneTrust cookie banner texts using WPML translations.
- * Author: Vanik/Nayax
+ * Author: Vanik
  * Version: 1.0.0
  */
 
